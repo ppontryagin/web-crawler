@@ -14,7 +14,7 @@ const (
 )
 
 func main() {
-	n1 := 58521 // min for now
+	n1 := 91380 // min for now
 	n2 := 9999999
 
 	taskCh := make(chan int)

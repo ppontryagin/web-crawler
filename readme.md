@@ -1,3 +1,7 @@
+# How to run
+go run crawler/main.go
+It will use 100 workers to dump pages.
+
 # The goal
 Need to download GP all time archive. It looks like all the articles can be accessed using url in form http://www.gp.se/1.%07d.
 So to get all the pages we can iterate through 0 to 9999999.
